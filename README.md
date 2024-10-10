@@ -1,5 +1,6 @@
-# roadmap.sh project solutions
- for my frontend web development studies
+# Roadmap.sh Project Solutions
 
-https://roadmap.sh/projects/single-page-cv  
-https://roadmap.sh/projects/basic-html-website
+## Frontend Projects
+
+- [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+- [x] [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
